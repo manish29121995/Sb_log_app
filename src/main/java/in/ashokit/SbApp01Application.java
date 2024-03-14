@@ -12,6 +12,7 @@ public class SbApp01Application {
    int j = 20;
    int age = 60;			
    int k = 50;
+    String s1 = "Hello Manish....";
 	
     
 	
