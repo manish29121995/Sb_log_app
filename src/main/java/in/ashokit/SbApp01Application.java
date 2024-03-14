@@ -11,6 +11,8 @@ public class SbApp01Application {
    int i = 15;
    int j = 20;
    int age = 60;			
+   int k = 50;
+	
     
 	
 	}
