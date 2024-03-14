@@ -10,7 +10,7 @@ public class SbApp01Application {
 		SpringApplication.run(SbApp01Application.class, args);
    int i = 15;
    int j = 20;
-   int age = 60;
+   int age = 60;			
     
 	
 	}
