@@ -12,9 +12,9 @@ public class SbApp01Application {
    int j = 20;
    int age = 60;			
    int k = 50;
-	
-    
-	
 	}
-
+    public String createData(){
+       String msg = "Data has created";
+           return msg;
+}
 }
