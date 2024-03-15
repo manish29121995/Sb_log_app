@@ -10,6 +10,7 @@ public class SbApp01Application {
     public void data(){
      int a =20;
      int b = 30;
+    String s = "manish";
 }
 
 	public static void main(String[] args) {
