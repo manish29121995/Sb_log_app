@@ -5,6 +5,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SbApp01Application {
+ // AA-101
+
+    public void data(){
+     int a =20;
+     int b = 30;
+}
 
 	public static void main(String[] args) {
 		SpringApplication.run(SbApp01Application.class, args);
